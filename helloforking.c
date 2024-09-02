@@ -1,0 +1,2 @@
+mian(){
+printf("hello forking");}
